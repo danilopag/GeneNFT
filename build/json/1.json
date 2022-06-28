@@ -1,0 +1,35 @@
+{
+  "name": "Test #1",
+  "description": "Ciao questa è una prova",
+  "image": "ipfs://QmYGqWcHoQuQfBZeZXVaMN871togQos2PyF5UboPV5W8hN",
+  "dna": "7f6dcf20fc8ad3a500550b9450649d088a61b21b",
+  "edition": 1,
+  "date": 1655734980216,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background0"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base3"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Trasparent"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Trasparent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Trasparent"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Accessories6"
+    }
+  ],
+  "compiler": "GeneNFT"
+}
